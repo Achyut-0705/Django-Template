@@ -1,0 +1,15 @@
+django
+gunicorn==20.1.0
+psycopg2-binary
+dj-database-url
+# channels
+dj-rest-auth
+django-allauth
+djangorestframework
+django-cors-headers
+django-rest-auth
+django-storages
+boto3
+pillow==9.1.0
+pycryptodome
+django-filter

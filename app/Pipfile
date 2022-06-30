@@ -1,0 +1,25 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+django = "*"
+gunicorn = "*"
+psycopg2-binary = "*"
+dj-database-url = "*"
+channels = "*"
+dj-rest-auth = "*"
+django-allauth = "*"
+djangorestframework = "*"
+django-cors-headers = "*"
+django-rest-auth = "*"
+django-storages = "*"
+boto3 = "*"
+pillow = "*"
+pycryptodome = "*"
+django-filter = "*"
+[dev-packages]
+
+[requires]
+python_version = "3.9"
